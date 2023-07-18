@@ -9,4 +9,4 @@
 - Get Jobs
 > curl -v -H "Authorization: Bearer {token}" localhost:5500/dans/jobs
 - Get Jobs by Id
-> curl -v -H "Authorization: Bearer {token}" localhost:5500/dns/jobs/{id}
+> curl -v -H "Authorization: Bearer {token}" localhost:5500/dans/jobs/{id}
