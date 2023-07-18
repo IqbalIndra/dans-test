@@ -1,0 +1,2 @@
+INSERT INTO users (username,password) VALUES ('admin','$2a$10$FLpQaA7at9XVGKqw6heZ0exO/P.aXQ275OASX56.Qyw6BvQJ3443y');
+INSERT INTO users (username,password) VALUES ('dans','$2a$10$MB6MH1CIgzKdpdGp0JOBt.KE6FSWNKsjrOTpVFUDhYmFIobkAUdpu');
